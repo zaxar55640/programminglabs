@@ -6,7 +6,7 @@ int main() {
     scanf("%c", &symbol);
     scanf("%f", &realNumber);
 
-    printf("%c\n", symbol);
-    printf("%f\n", realNumber);
+    printf("Your symbol:%c\n", symbol);
+    printf("Your number:%f\n", realNumber);
 
 }
